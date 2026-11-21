@@ -1,7 +1,7 @@
 # Николай Глазков
 
 Занимаюсь анализом данных и машинным обучением на Python.
-## Избранные проекты
+## Проекты
 
 ### [Прогнозирование текучести кадров](https://github.com/TrikZ991/hr-attrition-prediction)
 
@@ -24,3 +24,8 @@
 ## Инструменты
 
 Python · pandas · scikit-learn · Matplotlib · Jupyter · Streamlit
+
+## Контакты
+
+Telegram: @nikglazkov91
+Почта: kolaglazkov2@gmail.com
