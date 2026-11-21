@@ -27,5 +27,5 @@ Python · pandas · scikit-learn · Matplotlib · Jupyter · Streamlit
 
 ## Контакты
 
-Telegram: @nikglazkov91
+Telegram: @nikglazkov91             
 Почта: kolaglazkov2@gmail.com
